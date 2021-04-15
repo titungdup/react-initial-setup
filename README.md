@@ -1,4 +1,4 @@
-# React starter template
+# React starter template with
 
 - SCSS
 - PostCSS
